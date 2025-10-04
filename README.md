@@ -179,15 +179,16 @@ snape.io/
 
 **Optional:**
 
-To create a new branch (only if needed):
+1. To create a new branch (only if needed):
 
-    ```bash
-        git checkout -b newBranchName
-    ```
+   ```bash
+   git checkout -b newBranchName
+   ```
 
-Then push it the same way:
+   Then push it the same way:
 
-    ```bash
-        git push origin newBranchName
-    ```
+   ```bash
+   git push origin newBranchName
+   ```
+
 ---
